@@ -23,7 +23,7 @@
 ## Instalación y ejecución
 1. Clona el repositorio:
    ```bash
-   git clone <url-del-repositorio>
+   git clone https://github.com/xsoto-developer/spring-clean-tech-api.git
 
 2. Ejecuta la aplicación con:
    ```bash
